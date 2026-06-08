@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Younes1106.aternos.me",
-    "port": 17803,
+    "ip": "Younes1106.aternos.me:17803",
+    "port":17803,
     "version": "",
     "try-creative": false
   },
